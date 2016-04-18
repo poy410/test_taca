@@ -4,4 +4,8 @@
     <string name="hi_android">hi android</string>
     <string name="btn_1">send</string>
     <string name="textview_1">text1</string>
+    <string name="connect_google">toGoogle</string>
+    <string name="string_btn_dial">DIAL</string>
+    <string name="string_btn_toast">Toast</string>
+    <string name="string_btn_other">other</string>
 </resources>
